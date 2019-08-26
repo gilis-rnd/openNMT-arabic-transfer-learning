@@ -8,7 +8,7 @@ multi-bleu.perl
 venv
 *.sublime-*
 .DS_Store
-data/
+#data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
